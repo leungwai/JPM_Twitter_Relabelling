@@ -1,0 +1,143 @@
+TRAIN	Count	VAL	Count	TEST	Count
+uk	3	new	4.0	chicago	3.0
+chicago	3	uk	3.0	west	3.0
+usa	3	york	2.0	london	2.0
+london	3	hollywood	2.0	lake	2.0
+america	3	nc	2.0	us	2.0
+atlanta	3	nigeria	2.0	church	2.0
+india	2	chicago	2.0	st	2.0
+portland	2	valley	2.0	india	2.0
+la	2	jersey	2.0	san	2.0
+u.s.	2	ca	2.0	,	2.0
+center	2	o'	1.0	usa	2.0
+vatican	2	japan	1.0	healdsburg	2.0
+arizona	2	hare	1.0	china	2.0
+new	2	shore	1.0	east	2.0
+earth	2	disneyland	1.0	toronto	2.0
+florida	2	rancho	1.0	nyc	2.0
+county	2	white	1.0	pakistan	2.0
+istanbul	2	house	1.0	europe	1.0
+western	2	washington	1.0	alfin	1.0
+us	2	street	1.0	u.s.	1.0
+canada	2	cleveland	1.0	ca	1.0
+city	2	rio	1.0	cruz	1.0
+haiti	2	oh	1.0	california	1.0
+aus	1	intl	1.0	santa	1.0
+chi	1	slovenia	1.0	cuba	1.0
+or	1	port	1.0	aba	1.0
+house	1	bay	1.0	pengayoman	1.0
+shea	1	rome	1.0	britain	1.0
+sports	1	merica	1.0	great	1.0
+saint	1	arctic	1.0	america	1.0
+john	1	mars	1.0	oh	1.0
+north	1	glasgow	1.0	atlantic	1.0
+state	1	orleans	1.0	harwich	1.0
+syria	1	us	1.0	dover	1.0
+york	1	dallas	1.0	italy	1.0
+maine	1	forge	1.0	or	1.0
+arndale	1	ampang	1.0	new	1.0
+centre	1	jelatek	1.0	peak	1.0
+dekalb	1	akleh	1.0	triangulation	1.0
+ethiad	1	la	1.0	boston	1.0
+loyalist	1	monroe	1.0	texas	1.0
+turkey	1	w.monroe	1.0	ma	1.0
+airport	1	columbus	1.0	pune	1.0
+spain	1	indy	1.0	iraq	1.0
+kenya	1	river	1.0	york	1.0
+coast	1	colorado	1.0	kc	1.0
+wales	1	mi	1.0	rosetta	1.0
+romania	1	memphis	1.0	annadale	1.0
+brasil	1	az	1.0	avenue	1.0
+ga	1	sakura	1.0	forestside	1.0
+sufers	1	boston	1.0	leesville	1.0
+gold	1	atlanta	1.0	korea	1.0
+orleans	1	k.o.d	1.0	i-470	1.0
+daquq	1	indonesia	1.0	91	1.0
+philippines	1	village	1.0	wb	1.0
+calabar	1	pyt	1.0	(	1.0
+dickinson	1	haven	1.0	/	1.0
+ks	1	east	1.0	douglas	1.0
+tupelo	1	nyc	1.0	seoul	1.0
+sa	1	california	1.0	omaha	1.0
+brazil	1	serbia	1.0	road	1.0
+england	1	voodoo	1.0	saintfield	1.0
+pueblo	1	city	1.0	adventist	1.0
+mission	1	chad	1.0	day	1.0
+co	1	central	1.0	-	1.0
+eu	1	lake	1.0	seventh	1.0
+tianhe	1	croatia	1.0	ephesus	1.0
+duckland	1	salt	1.0	pasco	1.0
+9917	1	center	1.0	tochigi	1.0
+s	1	community	1.0	lochan	1.0
+blvd	1	gonzales	1.0	glencoe	1.0
+pennsylvania	1	detroit	1.0	nayarit	1.0
+jurupa	1	loire	1.0	chicos	1.0
+valley	1	charlotte	1.0	dos	1.0
+iran	1	2tehran	1.0	mie	1.0
+france	1	cal	1.0	gramercy	1.0
+kentucky	1	nor	1.0	eastbound	1.0
+nc	1	dublin	1.0	casa	1.0
+u.k.	1	monts	1.0	oswego	1.0
+california	1	germany	1.0	attleborough	1.0
+guangzhou	1			angelina	1.0
+italy	1			united	1.0
+schomburg	1			pradesh	1.0
+gaza	1			arunachal	1.0
+texas	1			ky	1.0
+st	1			bournemouth	1.0
+congress	1			's	1.0
+1	1			peter	1.0
+donuts	1			antonio	1.0
+dunkin	1			club	1.0
+uptown	1			nc	1.0
+thailand	1			darfur	1.0
+calgary	1			ave.	1.0
+malaysia	1			st.	1.0
+illinois	1			plaza	1.0
+paris	1			109a	1.0
+scotland	1			scopa	1.0
+sf	1			man-sion	1.0
+ritch	1			carolina	1.0
+330	1			south	1.0
+montreal	1			beach	1.0
+bham	1			myrtle	1.0
+pa	1			fl	1.0
+germany	1			norway	1.0
+charlotte	1			ca.	1.0
+bristol	1			coast	1.0
+raleigh	1			missiuri	1.0
+segundo	1			england	1.0
+el	1			s	1.0
+states	1			cherokee	1.0
+sm	1			turkey	1.0
+cebu	1			nacogdoches	1.0
+dallas	1			japan	1.0
+san	1			arena	1.0
+finland	1			manchester	1.0
+westminster	1			rivers	1.0
+wa	1			uk	1.0
+coventry	1			wy	1.0
+united	1			bulgaria	1.0
+atl	1			bangkok	1.0
+hudson	1			hartlepool	1.0
+lima	1			dubai	1.0
+bradford	1			alba	1.0
+hilliard	1			la	1.0
+sweden	1			gurugram	1.0
+road	1			bangladesh	1.0
+pinehills	1			geneva	1.0
+dixie	1			yemen	1.0
+winn	1			angeles	1.0
+blueroom	1			los	1.0
+htown	1			motown	1.0
+miami	1			ends	1.0
+chapel	1			north	1.0
+college	1			retba	1.0
+oxford	1			senegal	1.0
+wisconsin	1			indianapolis	1.0
+austin	1			counties	1.0
+libya	1			augustine	1.0
+ny	1			sabine	1.0
+cuba	1			nice	1.0
+francisco	1				
+istanb	1				

@@ -1,0 +1,407 @@
+TRAIN	Count	VAL	Count	TEST	Count
+trump	8	clinton	4.0	jesus	5.0
+god	7	daniel	3.0	trump	4.0
+lebron	6	bieber	3.0	louis	4.0
+drake	4	justin	3.0	harry	4.0
+prince	4	rose	3.0	donald	4.0
+chris	3	jesus	2.0	allah	4.0
+bieber	3	geo	2.0	rihanna	4.0
+jason	3	serge	2.0	god	4.0
+zayn	3	rick	2.0	hillary	3.0
+billy	3	god	2.0	kapoor	3.0
+frank	3	jefre	2.0	cruz	3.0
+jim	3	lil	2.0	swift	3.0
+jesus	3	godwin	2.0	james	3.0
+michael	3	james	2.0	taylor	3.0
+david	3	ksoo	2.0	ted	2.0
+beyonce	2	d	2.0	kid	2.0
+bianca	2	obaseki	2.0	kiss	2.0
+nicki	2	louis	2.0	guru	2.0
+donald	2	bron	2.0	michelle	2.0
+berlusconi	2	the	2.0	wayne	2.0
+jay	2	einstein	2.0	peter	2.0
+nelson	2	trump	2.0	daniel	2.0
+gaga	2	albert	2.0	bieber	2.0
+lord	2	obama	2.0	dj	2.0
+richard	2	manuel	1.0	justin	2.0
+kane	2	soren	1.0	nikki	2.0
+nick	2	jake	1.0	ariana	2.0
+lee	2	lexi	1.0	chris	2.0
+christ	2	oliver	1.0	iron	2.0
+liza	2	diggle	1.0	rossi	2.0
+mars	2	hellary	1.0	man	2.0
+james	2	kat	1.0	mario	2.0
+will	2	gazidis	1.0	capaldi	2.0
+malik	2	yanessa_northcott	1.0	sasuke	2.0
+van	2	doug	1.0	the	2.0
+kendall	2	martin	1.0	roman	2.0
+fergie	2	melania	1.0	lord	2.0
+iggy	2	hamilton	1.0	christopher	2.0
+dhoni	2	von	1.0	ji	2.0
+hadid	2	-o	1.0	g	2.0
+durant	2	nielsen	1.0	joey	2.0
+kevin	2	vogel	1.0	van	2.0
+hillary	2	shankar	1.0	l	2.0
+hrc	2	thegordonkids	1.0	tim	2.0
+harry	2	quatarius	1.0	darren	2.0
+dora	2	-	1.0	angela	2.0
+joel	2	weeknd	1.0	eagle	2.0
+taylor	2	ambode	1.0	clinton	2.0
+swift	2	reid	1.0	jimmy	1.0
+brandon	2	nick	1.0	ray	1.0
+roy	2	tarantino	1.0	wilkins	1.0
+kim	2	valtat	1.0	brissett	1.0
+kylie	2	jongin	1.0	kofi	1.0
+gigi	2	prince	1.0	spongebob	1.0
+john	2	amber	1.0	colum	1.0
+bruno	2	steve	1.0	vader	1.0
+biebs	2	quentin	1.0	menace	1.0
+ji	2	padalecki	1.0	columbus	1.0
+rihanna	2	ms	1.0	garde	1.0
+lady	2	puff	1.0	gerime	1.0
+boom	2	christie	1.0	gogh	1.0
+janette	2	marco	1.0	vincent	1.0
+luke	2	rubio	1.0	wenger	1.0
+owen	2	axl	1.0	dean	1.0
+wayne	2	dom	1.0	wade	1.0
+craig	2	kennedy	1.0	gooney	1.0
+serena	1	messi	1.0	perry	1.0
+sinatra	1	elijah	1.0	katy	1.0
+moreno	1	cummings	1.0	kesha	1.0
+gaal	1	sec.	1.0	monk	1.0
+williams	1	mar	1.0	darth	1.0
+louis	1	friesen	1.0	raul	1.0
+cabrera	1	clarke	1.0	grande	1.0
+brice	1	hillary	1.0	haris	1.0
+freeman	1	andy	1.0	atita	1.0
+toney	1	murray	1.0	erdogan	1.0
+rachel	1	kim	1.0	junhoe	1.0
+wendy	1	sears	1.0	assad	1.0
+z	1	rihanna	1.0	zayn	1.0
+satan	1	chris	1.0	ayerene	1.0
+lil	1	logic	1.0	dickinson	1.0
+kyu	1	los	1.0	emily	1.0
+eric	1	lounis	1.0	khloe	1.0
+ingram	1	swanqueen	1.0	imogen	1.0
+dempsey	1	regina	1.0	haina	1.0
+lewis	1	colifer	1.0	temme	1.0
+fredburger	1	jared	1.0	cabello	1.0
+fred	1	gaal	1.0	mitch	1.0
+warren	1	kylie	1.0	demi	1.0
+truman	1	malum	1.0	patrick	1.0
+kd	1	eleanor	1.0	lovato	1.0
+sooyoung	1	kiss	1.0	america	1.0
+dier	1	hogan	1.0	captain	1.0
+chike	1	thomas	1.0	turtles	1.0
+dean	1	quaife	1.0	ninja	1.0
+mourinho	1	vickers	1.0	nazuna	1.0
+kerr	1	odell	1.0	sophie	1.0
+steve	1	beckham	1.0	kanye	1.0
+tiff	1	jr.	1.0	bentley	1.0
+ocean	1	sanders	1.0	dierks	1.0
+erzascrlt	1	hulk	1.0	purp	1.0
+dj	1	darbs	1.0	---==adamcsmith==---	1.0
+pita	1	shuga	1.0	mitchell	1.0
+peyton	1	van	1.0	donovan	1.0
+tom	1	tyler	1.0	fiorina	1.0
+iggys	1	eran	1.0	styles	1.0
+ti	1	iyaz	1.0	amoabeng	1.0
+steenhuisen	1	bond	1.0	marco	1.0
+zuma	1	cameron	1.0	gaal	1.0
+bromwich	1	ariane	1.0	josé	1.0
+engel	1	tahj	1.0	vernon	1.0
+jonah	1	thosefourrightchords	1.0	joshua	1.0
+chapmen	1	b	1.0	friday	1.0
+piper	1	ennis	1.0	stecklein	1.0
+spears	1	rock	1.0	sanders	1.0
+britney	1	gerbe	1.0	bernie	1.0
+brendon	1	snookis	1.0	mader	1.0
+halsey	1	wayne	1.0	rebecca	1.0
+princessdollxxx	1	taylor	1.0	abraham	1.0
+wenger	1	john	1.0	gergova	1.0
+classen	1	ross	1.0	diana	1.0
+brady	1	sergio	1.0	obama	1.0
+manning	1	ramos	1.0	tunsil	1.0
+ricciardo	1	bi	1.0	laremy	1.0
+yixingspixie	1	jazmyn	1.0	burnside	1.0
+papa	1	streisand	1.0	julan	1.0
+banks	1	keizer	1.0	laurmani	1.0
+miles	1	lebron	1.0	voltaire	1.0
+stutterheim	1	bryan	1.0	sidney	1.0
+minaj	1	donald	1.0	crosby	1.0
+stephanieyoungh	1	rumsfeld	1.0	pope	1.0
+zaha	1	tanyas	1.0	paulson	1.0
+jenner	1	dwight	1.0	hank	1.0
+kidd	1	howard	1.0	bush	1.0
+brian	1	rham	1.0	maria	1.0
+giggs	1	e	1.0	leon	1.0
+ryan	1	o	1.0	hannigan	1.0
+island	1	blago	1.0	devan	1.0
+zuckerberg	1	warren	1.0	joong	1.0
+mark	1	g	1.0	joe	1.0
+pogba	1	nate	1.0	jae	1.0
+paul	1	dogg	1.0	kim	1.0
+hamilton	1	finn	1.0	thecrayonkitchen	1.0
+jeb	1	gregg	1.0	zentangle	1.0
+ron	1	iker	1.0	sandoval	1.0
+mccain	1	casillas	1.0	pablo	1.0
+yoweri	1	jose	1.0	sakic	1.0
+r.	1	behati	1.0	yoona	1.0
+anthony	1	adam	1.0	taeyeon	1.0
+walker	1	levine	1.0	espanto	1.0
+tyler	1	maktoum	1.0	nole	1.0
+vivi	1	bin	1.0	sofyan	1.0
+papi	1	mohammed	1.0	ismed	1.0
+big	1	kanye	1.0	bellerin	1.0
+mjanemann	1	marilyn	1.0	doug	1.0
+mccann	1	monroe	1.0	frank	1.0
+larry	1	curley	1.0	claire	1.0
+kris	1	matteo	1.0	mendes	1.0
+wu	1	renzi	1.0	shannon	1.0
+rexha	1	mohammad	1.0	jimin	1.0
+yi	1	namo	1.0	duterte	1.0
+hyun	1	allah	1.0	gomez	1.0
+bebe	1	jungmann	1.0	selena	1.0
+museveni	1	george	1.0	d.o	1.0
+amelia	1	bush	1.0	worden	1.0
+allah	1	prinsloo	1.0	al	1.0
+livingstone_s	1	ca	1.0	mourin	1.0
+maxwell	1	mourinho	1.0	jen	1.0
+trillphill	1	cantu-ledesma	1.0	lee	1.0
+farage	1	vance	1.0	lizquen	1.0
+kyrie	1	breshears	1.0	notte	1.0
+chyna	1	jeff	1.0	tzu	1.0
+blac	1	otero	1.0	-	1.0
+soberano	1	cathy	1.0	lao	1.0
+aaron	1	hutchison	1.0	anna	1.0
+ycaza	1	jasmin	1.0	hulk	1.0
+sturridge	1	wiz	1.0	santili	1.0
+aaliyah	1	khalifa	1.0	pete	1.0
+taeyeons	1	ian	1.0	finbarr	1.0
+kara	1	jaden	1.0	joon	1.0
+shane	1	smith	1.0	bond	1.0
+sean	1	olsen	1.0	boob	1.0
+keem	1	twins	1.0	simmons	1.0
+g-eazy	1	vinny	1.0	ben	1.0
+jin	1	curry	1.0	ronaldo	1.0
+popper	1	trumps	1.0	xxxdavid	1.0
+kanye	1	shoenice	1.0	tisha	1.0
+ms	1			camila	1.0
+podenco	1			park	1.0
+dortmund	1			shawn	1.0
+irma	1			gucci	1.0
+borussia	1			hansol	1.0
+thoreau	1			blackangel94a	1.0
+henry	1			harris	1.0
+maine	1			calvin	1.0
+sanders	1			itachi	1.0
+butler	1			naruto	1.0
+erik	1			mane	1.0
+alden	1			valentino	1.0
+justinlover1144	1			aiono	1.0
+jaytezz	1			rashford	1.0
+saunders	1			marcus	1.0
+clint	1			brown	1.0
+flava	1			shashi	1.0
+kurti_podenco	1			shammi	1.0
+elle	1			raj	1.0
+rin	1			kyla	1.0
+niall	1			corina	1.0
+diggy	1			dumitrescu	1.0
+ryu	1			joebarly	1.0
+azalea	1			hitmaker	1.0
+yixing	1			eazy	1.0
+trainor	1			lanez	1.0
+edcapitola	1			tory	1.0
+meghan	1			jose	1.0
+prof.	1			abramovich	1.0
+steele	1			dec	1.0
+cruz	1			and	1.0
+ted	1			ant	1.0
+alex	1			engert	1.0
+justin	1			greg	1.0
+guarnaschelli	1			pinnock	1.0
+gough	1			anne	1.0
+gray	1			leigh	1.0
+albrecht	1			jessica	1.0
+shawn	1			q	1.0
+nekkoala	1			nadine	1.0
+michaels	1			scalia	1.0
+cliff	1			kerry	1.0
+fergusons	1			craig	1.0
+cade	1			robert	1.0
+sparks	1			toney	1.0
+hal	1			lepore	1.0
+griners	1			larry	1.0
+gabe	1			bob	1.0
+munoz	1			jjong	1.0
+victor	1			key	1.0
+foo	1			loewe	1.0
+quinn	1			jo	1.0
+mitchell	1			smith	1.0
+tenten	1			troy	1.0
+mccoy	1			molina	1.0
+travie	1			bengie	1.0
+mayweather	1			mushi	1.0
+cantrell	1			benazir	1.0
+blu	1			jack	1.0
+fiasco	1			angry	1.0
+jillian	1			mcinnes	1.0
+maya	1			bear	1.0
+jack	1			gavin	1.0
+angelou	1			lil	1.0
+mike	1			cudi	1.0
+franco	1			britney	1.0
+demi	1			minaj	1.0
+hailee	1			nicki	1.0
+jamie	1			norris	1.0
+jacques	1			chuck	1.0
+courier	1			aaron	1.0
+silvio	1			buffet	1.0
+demint	1			warren	1.0
+mandela	1			roosevelt	1.0
+kaylee	1			theodore	1.0
+toby	1			mars	1.0
+brookes	1			bruno	1.0
+sami	1			alex	1.0
+sue	1			bj	1.0
+feyder	1			bapuji	1.0
+adamson	1			sturgeon	1.0
+marilyn	1			marine	1.0
+shuttlesworth	1			cari	1.0
+lupe	1			curry	1.0
+andrew	1			kath	1.0
+disney	1			tiller	1.0
+walt	1			bryson	1.0
+u$her	1			wakefield	1.0
+babyface	1			nic	1.0
+beckham	1			chicago	1.0
+t-e-n-n-a-n-t	1			daryl	1.0
+sheen	1			rick	1.0
+charlie	1			dio	1.0
+doyle	1			calderon	1.0
+connan	1			philip	1.0
+arthur	1			mcdanel	1.0
+sir	1			brett	1.0
+friel	1			le	1.0
+todd	1			pen	1.0
+choi	1			kelsea	1.0
+captain	1			mercy	1.0
+siwon	1			asaram	1.0
+diyachenko	1			ikon	1.0
+olga	1			kush	1.0
+obi	1			gd	1.0
+mikel	1			big	1.0
+pitbull	1			duncan	1.0
+2pac	1			madsen	1.0
+rondo	1			virginia	1.0
+chief	1			corbyn	1.0
+lincoln	1			jeremy	1.0
+abe	1			salmo	1.0
+corey	1			emy	1.0
+gallinari	1			bom	1.0
+danilo	1			minzy	1.0
+donny	1			aigbe	1.0
+police	1			jaitley	1.0
+of	1			arun	1.0
+lyod	1			saya	1.0
+fredo	1			argent	1.0
+gem	1			stilinski	1.0
+court	1			stiles	1.0
+kieran	1			jordan	1.0
+gonzalez	1			jason	1.0
+jream	1			powers	1.0
+fiko	1			harrison	1.0
+biden	1			john	1.0
+anna	1			naji	1.0
+miller	1			ahmed	1.0
+kilkenny	1			phil	1.0
+tessa	1			dan	1.0
+minyoonjgi	1			dre	1.0
+yadav	1			dr	1.0
+yogendra	1			lamar	1.0
+hai	1			kendrick	1.0
+glen	1			allison	1.0
+cox	1			thatcher	1.0
+jo	1			ang	1.0
+guthrie	1			president	1.0
+noelle	1			carey	1.0
+elan	1			mariah	1.0
+curry	1			4	1.0
+ayesha	1			yung	1.0
+pac	1			edwards	1.0
+2	1			jdr	1.0
+eminem	1			windsor	1.0
+cam	1			of	1.0
+yoongi	1			duchess	1.0
+min	1			duck	1.0
+creator	1			victoria	1.0
+bill	1			beckham	1.0
+tomar	1			david	1.0
+siri	1			trumps	1.0
+dylan	1			putin	1.0
+kelly	1			batman	1.0
+gre	1				
+jolly	1				
+claus	1				
+santa	1				
+vapnyer	1				
+lara	1				
+verwoerd	1				
+johnson	1				
+gant	1				
+ty	1				
+jaejin	1				
+carroll	1				
+mø	1				
+obama	1				
+malia	1				
+dizzy	1				
+dv	1				
+pennington	1				
+draymond	1				
+bs	1				
+the	1				
+linda	1				
+jones	1				
+stewart	1				
+rod	1				
+monica	1				
+stay-c	1				
+jeronimo	1				
+jelena	1				
+minogue	1				
+spammy	1				
+yoona	1				
+smith	1				
+pinkett	1				
+jada	1				
+ken	1				
+tina	1				
+rihannas	1				
+damnmartin58	1				
+stamos	1				
+explorer	1				
+ian	1				
+somerhalder	1				
+lawrence	1				
+neymar	1				
+maria	1				
+problem	1				
+king	1				
+lilzhp	1				
+bohiti	1				
+ki	1				
+kast	1				
+tupac	1				
+potter	1				
+welk	1				
+suriya	1				
+davis	1				
+marc	1				
+jodeci	1				
+gareth	1				
+gunsmithcat	1				
+prather	1				
+mrs.	1				
+day	1				

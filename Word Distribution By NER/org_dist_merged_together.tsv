@@ -1,0 +1,284 @@
+TRAIN	Count	VAL	Count	TEST	Count
+twitter	9	the	3.0	twitter	15.0
+apple	7	nus	3.0	facebook	5.0
+facebook	6	snapchat	3.0	exo	4.0
+snapchat	5	twitter	3.0	eu	4.0
+heat	4	eu	3.0	youtube	3.0
+'s	3	england	2.0	sl	3.0
+motorola	3	red	2.0	yamaha	2.0
+the	3	bruins	2.0	flickr	2.0
+lakers	3	leicester	2.0	news	2.0
+rangers	3	league	2.0	insta	2.0
+journal	3	arsenal	2.0	lowe	2.0
+street	2	united	2.0	united	2.0
+manchester	2	city	2.0	speedway	2.0
+acura	2	parag	2.0	philips	2.0
+wall	2	milk	2.0	coldplay	2.0
+amazon	2	foods	2.0	grumman	2.0
+matter	2	lightning	2.0	instagram	2.0
+lives	2	windows	2.0	revolution	2.0
+miami	2	's	2.0	lorex	2.0
+spotify	2	heat	2.0	inc.	2.0
+laker	2	-	2.0	northrop	2.0
+black	2	east	2.0	amazon	2.0
+ukip	2	big	2.0	snapchat	2.0
+times	2	nvr	2.0	harmony	2.0
+york	2	cafe	1.0	fifth	2.0
+new	2	amc	1.0	the	1.0
+ty	2	bucs	1.0	manchester	1.0
+sprint	2	bay	1.0	afl	1.0
+school	2	tampa	1.0	bulldogs	1.0
+warriors	2	114	1.0	kstyle	1.0
+didi	2	avon	1.0	valkyrie	1.0
+union	2	generals	1.0	ra*bits	1.0
+party	2	lady	1.0	kangaroos	1.0
+celtics	2	studio	1.0	knicks	1.0
+isis	2	tattoo	1.0	discovery	1.0
+news	2	magic	1.0	euronews	1.0
+staples	1	louis	1.0	sharks	1.0
+network	1	waffle	1.0	bulls	1.0
+chuxing	1	mcdiscoveryparks	1.0	kold	1.0
+abb	1	forbes	1.0	doritos	1.0
+lnp	1	weleda	1.0	trans	1.0
+univision	1	quintiles	1.0	sorry	1.0
+alp	1	haram	1.0	fb	1.0
+mariners	1	vuitton	1.0	npa	1.0
+nielsen	1	boko	1.0	zeiss	1.0
+communications	1	painted	1.0	microsoft	1.0
+city	1	facebook	1.0	hitc	1.0
+u.s.	1	house	1.0	villa	1.0
+department	1	9muses	1.0	mcgolf	1.0
+of	1	frank	1.0	groupme	1.0
+justice	1	who	1.0	wmur	1.0
+blackwater	1	cree	1.0	ios	1.0
+bpl	1	senate	1.0	lloydspharmacy	1.0
+bulls	1	vector	1.0	girls	1.0
+vogue	1	coldplay	1.0	fbi	1.0
+cartoon	1	adidas	1.0	akmu	1.0
+fbi	1	ecom	1.0	abh	1.0
+band	1	champions	1.0	armalite	1.0
+scouts	1	newsx	1.0	photography	1.0
+fray	1	ac/dc	1.0	dnc	1.0
+leeds	1	guns'n'roses	1.0	eagles	1.0
+iphone	1	ap	1.0	of	1.0
+clinton	1	ex-saints	1.0	death	1.0
+global	1	koben	1.0	metal	1.0
+initiative	1	klein	1.0	san	1.0
+university	1	calvin	1.0	miguel	1.0
+european	1	premier	1.0	telstra	1.0
+condors	1	trading	1.0	frisco	1.0
+bap	1	forex	1.0	cadet	1.0
+nintendo	1	plan	1.0	roughriders	1.0
+aqours	1	simple	1.0	cambridge	1.0
+girl	1	blm	1.0	university	1.0
+spectrum	1	blackberry	1.0	onerepublic	1.0
+brown	1	atlantic	1.0	disney	1.0
+accountable	1	purse	1.0	supercells	1.0
+care	1	samaritan	1.0	hershey	1.0
+honda	1	russia	1.0	1d	1.0
+dunedin	1	wwe	1.0	rico	1.0
+income	1	bulls	1.0	howe	1.0
+itunes	1	company	1.0	alan	1.0
+investment	1	movie	1.0	army	1.0
+tr	1	msg	1.0	syrian	1.0
+plc	1	lakers	1.0	world	1.0
+chelsea	1	hotels.com	1.0	team	1.0
+real	1	tv	1.0	community	1.0
+madrid	1	rogers	1.0	rona	1.0
+zac	1	madrid	1.0	's	1.0
+growth	1	real	1.0	company	1.0
+england	1	manchester	1.0	christiantoday	1.0
+gold	1	vans	1.0	pfa	1.0
+uk	1	gatorade	1.0	allgreen	1.0
+soundcloud	1	youtube	1.0	multibionta	1.0
+hogs	1	hawwwwwwwks	1.0	yeti	1.0
+razorback	1	msu	1.0	umg	1.0
+boise	1	pepsi	1.0	evening	1.0
+state	1	beer	1.0	express	1.0
+ft	1	zapata	1.0	uber	1.0
+island	1	guanabee	1.0	ebay.ca	1.0
+electoral	1	computerworld	1.0	delhi	1.0
+commission	1	celtics	1.0	air	1.0
+conservative	1	ntu	1.0	free	1.0
+thomas	1	speed	1.0	penguins	1.0
+j.	1	dolls	1.0	fox	1.0
+semmes	1	pussycat	1.0	sera	1.0
+santander	1	lobster	1.0	lentech	1.0
+windows	1	🎬	1.0	golden	1.0
+yelp	1	xbox	1.0	corp.	1.0
+android	1	fisher	1.0	ufc	1.0
+cern	1	6abc	1.0	irs	1.0
+bighit	1	john	1.0	california	1.0
+na	1	st	1.0	state	1.0
+carvin	1	5sos	1.0	parks	1.0
+usa	1	un	1.0	citizens	1.0
+paraguay	1	kapa_photography	1.0	tca	1.0
+seattle	1	tidal	1.0	ind	1.0
+sounders	1	instagram	1.0	starbucks	1.0
+steam	1	itv	1.0	celtics	1.0
+neurogadget	1	bmw	1.0	syma	1.0
+music	1	castlecomer	1.0	bboyz	1.0
+farmall	1	care	1.0	jabberduck	1.0
+league	1	health	1.0	stangs	1.0
+dnc	1	stanford	1.0	audiocells	1.0
+youtube	1	android	1.0	red	1.0
+circle	1	71	1.0	molson	1.0
+linkin	1	u	1.0	who	1.0
+eclipse	1	nct	1.0	guess	1.0
+coldplay	1	a	1.0	gizmos	1.0
+bottledupdesigns	1	fil	1.0	exit	1.0
+tesla	1	chick	1.0	yggg	1.0
+villa	1	imf	1.0	saddest	1.0
+nice	1	bbc	1.0	nro	1.0
+blazecoins	1	eurovision	1.0	theweatherchannel	1.0
+instagram	1	nba	1.0	lakers	1.0
+fifth	1	eagles	1.0	adelaide	1.0
+harmony	1	hot	1.0	media	1.0
+eagles	1			lab	1.0
+ac/dc	1			49ers	1.0
+bon	1			nbc	1.0
+jovi	1			dorito	1.0
+park	1			paypal	1.0
+instagrams	1			eventbrite	1.0
+green	1			intelligent	1.0
+day	1			management	1.0
+frisby	1			great	1.0
+jets	1			bull	1.0
+fitwood	1			2ne1	1.0
+papa	1			huawei	1.0
+murphy	1			iorange	1.0
+betbright	1			radio	1.0
+peshmerga	1			skip	1.0
+kurdishglobe	1			raiders	1.0
+laurel	1			un	1.0
+burch	1			labour	1.0
+ebay	1			govt	1.0
+snsd	1			lincoln	1.0
+arteonline4u	1			bts	1.0
+anonymous	1			doncaster	1.0
+united	1			repair	1.0
+ericsson	1			phoenix	1.0
+toronto	1			hartlepool	1.0
+raptors	1			mail	1.0
+kfc	1			made	1.0
+philadelphia	1			nra	1.0
+timbers	1			nature	1.0
+villarreal	1			republic	1.0
+panathinaikos	1			cnet	1.0
+al	1			osn	1.0
+ittihad	1			cl	1.0
+philly	1			pl	1.0
+limewire	1			department	1.0
+congress	1			matters	1.0
+bbc4	1			gsu	1.0
+philharmonic	1			amc	1.0
+pontiac	1			alternative	1.0
+patriots	1			magazine	1.0
+tea	1			betfair	1.0
+pacs	1			everton	1.0
+quick	1			man	1.0
+e	1			utd	1.0
+mart	1			tumblr	1.0
+denny	1			chelsea	1.0
+rockets	1			icc	1.0
+yahoo!	1			ig	1.0
+texas	1			makeup	1.0
+onion	1			gatorade	1.0
+senate	1			alabama	1.0
+canucks	1			banking	1.0
+polaroid	1			riders	1.0
+cns	1				
+asus	1				
+wwe	1				
+super	1				
+junior	1				
+stick	1				
+&	1				
+stein	1				
+ncsu	1				
+nba	1				
+one	1				
+direction	1				
+associated	1				
+foods	1				
+2news	1				
+eastside	1				
+costco	1				
+husker	1				
+giants	1				
+uniteds	1				
+pc	1				
+magazine	1				
+simplestepsautism.com	1				
+bison	1				
+sdsu	1				
+biocon	1				
+destiny	1				
+child	1				
+pandora	1				
+gieco	1				
+isu	1				
+ed	1				
+hardy	1				
+oxford	1				
+alphabet	1				
+coventry	1				
+telegraph	1				
+country	1				
+financial	1				
+english	1				
+parliament	1				
+aquinas	1				
+american	1				
+top	1				
+team	1				
+youth	1				
+employment	1				
+google	1				
+fabulous	1				
+mail	1				
+frogs	1				
+got7	1				
+twitch	1				
+port2port	1				
+ftisland	1				
+ups	1				
+ferrari	1				
+monsta	1				
+x	1				
+gresham	1				
+high	1				
+calily	1				
+nyt	1				
+epl	1				
+jr	1				
+carl	1				
+gazette	1				
+phillies	1				
+jefferson	1				
+starship	1				
+dwm	1				
+girls’	1				
+generation	1				
+sixers	1				
+deviantart	1				
+char	1				
+-	1				
+broil	1				
+globalpublishing	1				
+barcelona	1				
+yamaha	1				
+smashfund	1				
+epson	1				
+nation	1				
+carolina	1				
+panthers	1				
+nfl	1				
+bleacher	1				
+report	1				
+darby	1				
+smart	1				
+operanightclub	1				
+fort	1				
+wayne	1				
+dorman	1				
