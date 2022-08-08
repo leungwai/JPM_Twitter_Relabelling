@@ -83,7 +83,7 @@ for tweet, pos_labels, ner_labels in combined_dataset_train:
             
             # if the phrase word in the phrase is @user, split it up in its own separate tag
             if '@user' in t:
-                train_df.loc[len(train_df.index)] = [t, t_index, t_index, p, n, ' '.join(tweet), pos_labels, ner_labels]
+                train_df.loc[len(train_df.index)] = [t, t_index, t_index, [p], [n], ' '.join(tweet), pos_labels, ner_labels]
                 continued_phrase == False
             
             # otherwise start a new phrase
@@ -104,7 +104,7 @@ for tweet, pos_labels, ner_labels in combined_dataset_train:
                     train_df.loc[len(train_df.index)] = [' '.join(t_phrase), start_index, end_index, p_phrase, n_phrase, ' '.join(tweet), pos_labels, ner_labels]
                 
                 # add the current user tag 
-                train_df.loc[len(train_df.index)] = [t, t_index, t_index, p, n, ' '.join(tweet), pos_labels, ner_labels]
+                train_df.loc[len(train_df.index)] = [t, t_index, t_index, [p], [n], ' '.join(tweet), pos_labels, ner_labels]
 
                 # clear the list phrase
                 combined_phrase = False
@@ -180,7 +180,7 @@ for tweet, pos_labels, ner_labels in combined_dataset_val:
             
             # if the phrase word in the phrase is @user, split it up in its own separate tag
             if '@user' in t:
-                val_df.loc[len(val_df.index)] = [t, t_index, t_index, p, n, ' '.join(tweet), pos_labels, ner_labels]
+                val_df.loc[len(val_df.index)] = [t, t_index, t_index, [p], [n], ' '.join(tweet), pos_labels, ner_labels]
                 continued_phrase == False
             
             # otherwise start a new phrase
@@ -201,7 +201,7 @@ for tweet, pos_labels, ner_labels in combined_dataset_val:
                     val_df.loc[len(val_df.index)] = [' '.join(t_phrase), start_index, end_index, p_phrase, n_phrase, ' '.join(tweet), pos_labels, ner_labels]
                 
                 # add the current user tag 
-                val_df.loc[len(val_df.index)] = [t, t_index, t_index, p, n, ' '.join(tweet), pos_labels, ner_labels]
+                val_df.loc[len(val_df.index)] = [t, t_index, t_index, [p], [n], ' '.join(tweet), pos_labels, ner_labels]
 
                 # clear the list phrase
                 combined_phrase = False
@@ -277,7 +277,7 @@ for tweet, pos_labels, ner_labels in combined_dataset_test:
             
             # if the phrase word in the phrase is @user, split it up in its own separate tag
             if '@user' in t:
-                test_df.loc[len(test_df.index)] = [t, t_index, t_index, p, n, ' '.join(tweet), pos_labels, ner_labels]
+                test_df.loc[len(test_df.index)] = [t, t_index, t_index, [p], [n], ' '.join(tweet), pos_labels, ner_labels]
                 continued_phrase == False
             
             # otherwise start a new phrase
@@ -298,7 +298,7 @@ for tweet, pos_labels, ner_labels in combined_dataset_test:
                     test_df.loc[len(test_df.index)] = [' '.join(t_phrase), start_index, end_index, p_phrase, n_phrase, ' '.join(tweet), pos_labels, ner_labels]
                 
                 # add the current user tag 
-                test_df.loc[len(test_df.index)] = [t, t_index, t_index, p, n, ' '.join(tweet), pos_labels, ner_labels]
+                test_df.loc[len(test_df.index)] = [t, t_index, t_index, [p], [n], ' '.join(tweet), pos_labels, ner_labels]
 
                 # clear the list phrase
                 combined_phrase = False
