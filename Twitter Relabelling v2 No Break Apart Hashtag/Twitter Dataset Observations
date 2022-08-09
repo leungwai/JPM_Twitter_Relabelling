@@ -58,6 +58,7 @@ Training Dataset Analysis
 4 sets of consecutive hashtags broken up 
 20 phrases 
 
+42 of 971
 
 ______________________________________
 VALIDATION DATASET
@@ -100,6 +101,8 @@ Validation Dataset Analysis
 2 hashtags then a word
 0 sets of consecutive hashtags broken up
 18 phrases
+
+32 of 435
 
 ___________________________________
 TESTING DATASET
@@ -161,6 +164,7 @@ Testing Dataset Analysis
 3 sets of consecutive hashtags broken up
 24 phrases
 
+51 of 707
 
 
 
