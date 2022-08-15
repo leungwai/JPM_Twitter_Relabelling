@@ -1,0 +1,23 @@
+Leung Wai Liu
+JPMorgan AI Research
+August 12, 2022
+Label Filtering Statistics
+
+TEST: 
+- Original Set: 677 rows 
+- After filtering dates and times: 636 rows
+- Agree: 478 rows
+- Disagree: 158 rows (33.05%)
+
+VAL: 
+- Original Set: 414 rows
+- After filtering dates and times: 383 rows
+- Agree: 280 rows
+- Disagree: 103 rows (26.9%) 
+
+TRAIN: 
+- Original Set: 939 rows
+- After filtering dates and times: 878 rows
+- Agree: 704 rows
+- Disagree: 174 rows (19.8%)
+
