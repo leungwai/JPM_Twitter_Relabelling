@@ -1,0 +1,169 @@
+Leung Wai Liu
+JPMorgan AI Research
+August 22, 2022
+Integration Code Observations
+
+____________________________________________
+TEST:
+
+Original Dataset: 
+
+Combined: 
+@users only: 429
+The rest: 278
+Total: 707
+
+Agree:
+@users only: 391
+The rest: 87
+Total: 478
+
+Disagree:
+@users only: 38
+The rest: 115
+Total: 153
+
+Combined total non users only = 202 (87+115)
+
+After initial run: 201 merged, 77 NOT MERGED)
+“Denial” did not make it through the initial run
+
+87 Frisco = B-MISC
+89 Gothober = B-MISC
+195 grammys = B-MISC
+248 kanhaiyakumar = B-PER
+
+360 rows after multiple phrases added
+81 multiple phrase added back
+
+After manual application: 206 merged, 72 NOT MERGED, 
+
+
+288 rows TOTAL IN THE END
+
+How much changed when added back to file: 286 (lost 2)
+
+Lost 2 data in the end
+156 non O’s added - 2 lost
+
+Total Old Entities: 1183
+Total New Entities: 1334
+
+153 changed additions
+151 new additions (12.76% increase)
+
+Total probably lost ~5 entities total
+
+_______________________________________
+TRAIN: 
+Original Dataset:
+
+@users only: 669 
+The rest: 302
+Total: 971
+
+Agree:
+@users only: 601
+The rest: 102
+Total: 703
+
+Disagree:
+@users only: 68
+The rest: 104
+Total: 172
+
+Combined total non users only: 206 (102+104)
+
+After initial merge: 204 merged, 98 not merged (of 302) 
+“Gospel”
+
+63 single phrase words not accounted for
+
+8 fridaynightlights = B-MISC
+11 teamceltics = B-ORG
+130 teamel_al = B-MISC
+255 sunglasses = O
+265 campuschat = B-MISC
+273 teamceltics = B-ORG
+274 teamheat = B-ORG
+332 jammy = O
+382 Miamiheat = B-ORG
+434 kumamon = B-MISC
+513 amazon = B-ORG
+555 choiceinstagrammer = B-MISC
+570 smartmapp = B-MISC
+603 bestworldsommarg2016 = B-MISC
+684 marines = B-ORG
+719 pokemon = B-MISC
+744 duramax = B-MISC
+745 Camry = B-MISC
+824 choicemusicgroupmale = B-MISC
+912 satideparipa = B-MISC
+
+20 words recovered
+
+After that 44 single phrase words not accounted for (dates/time)
+
+35 multiple train rows
+
+After integrating multiple train - one did not make it (marathon filibuster) - manually added
+
+378 rows after that
+
+Sanity check - 76 empty
+
+Getting rid of NaN = 302 rows
+
+302 changed (yay - none lost)
+
+Total Old Entities: 1484
+Total New Entities: 1678
+
+Total Changed Additions: 194
+Total New Additions: 194 (13.07% increase)
+
+- matches with the pandas dataset (0 loss)
+
+_____________________________________
+VALIDATION:
+Original Dataset:
+
+@user only: 267
+The rest: 168
+Total: 435
+
+Agree:
+@users only: 235
+The rest: 45
+Total: 280
+
+Disagree:
+@users only: 32
+The rest: 70
+Total: 102
+
+Combined total non users only: 115 (45+70)
+
+After first merge pass: 113 (2 missed - both “kai” - fixed, all 115 merged
+
+94 Decades = I-MISC
+160 amjadsabari = B-PER
+350 hamburgerhelpermixtape = B-MISC
+
+3 recovered, 29 left NaN
+
+Multiple labels: 20 rows
+226 rows after merging multiple labels
+
+With 50 empty phrases
+
+176 TOTAL with multiple phrases
+
+How much changed after integrating: 174 (2 lost)
+
+Total Old Entities: 675
+Total New Entities: 781
+Total changed additions: 107
+Total new additions: 106 (15.7% increase)
+
+109 rows from pandas (3 lost) - lost 5 total?
