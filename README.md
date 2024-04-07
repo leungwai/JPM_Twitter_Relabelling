@@ -4,7 +4,7 @@ Code to use SpaCy to relabel entities (hashtags, time, @ mentions, etc.) that wa
 
 _Original Project Headed by Akshat Gupta, Code to relabel entities by Leung Wai Liu_
 
-_\#NLP \#NER \#ML \#SpaCy \#Python
+_\#NLP \#NER \#ML \#SpaCy \#Python_
 
 ## Overcomplicated Sampling Methodology: 
 
