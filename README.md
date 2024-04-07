@@ -2,7 +2,7 @@
 
 Code to use SpaCy to relabel entities (hashtags, time, @ mentions, etc.) that was previously ignored by the Tweebank Corpus to improve NER classification for Tweets - during J.P. Morgan Chase internship in Summer 2022
 
-_Original Project Headed by Akshat Gupta, Code to relabel entities by Leung Wai Liu_
+_Project Leader: **Akshat Gupta**, Code to Relabel Entities: **Leung Wai Liu**_
 
 _\#NLP \#NER \#ML \#SpaCy \#Python_
 
